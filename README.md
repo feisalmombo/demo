@@ -1,1 +1,1 @@
-This is a README! It's for my GitHub repository demo.
+This repository is for my demo project which is my first project done under Andela Learning Community.
