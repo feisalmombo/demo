@@ -1,0 +1,1 @@
+This project is the first project under Andela Learning Community. This is my first Hello World project using Html in order to see what are the best option to use the collaborative tool such as GitHub in order to store my code to the GitHub cloud.
